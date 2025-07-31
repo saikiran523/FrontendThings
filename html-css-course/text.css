@@ -1,0 +1,32 @@
+.video-title{
+    font-family: arial;
+    font-size: 18px;
+    width: 300px;
+    font-weight: bold;
+    line-height: 24px;   
+}
+.video-stutes{
+    font-family: Arial;
+    font-size: 14px;
+}
+.apple-text{
+    margin: bottom 50px; 
+    font-size: 14px;
+    background-color:red;
+    color: aliceblue;
+   text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    
+}
+.span-text{
+    cursor: pointer;
+    margin: left 20px;;
+}
+.span-text:hover{
+    text-decoration: underline;
+    margin-left: 20px;
+}
+.span-text:active{
+    
+}    
